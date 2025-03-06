@@ -1,3 +1,17 @@
 body{
     background: #BDBDBD;
 }
+
+.img_edit {
+    max-height: 65vh;
+    min-height: 30vh;
+}
+
+.title1 {
+    font-size: 7vw;
+    align-self: center;
+}
+
+.title2 {
+    font-size: 4vw;
+}
